@@ -1,4 +1,4 @@
-### AGROCAST: Automatic Irrigation based on OpenWeatherMap Forecast Data, Long-Range (LoRa), and Internet of Things
+### AGROCAST: Automatic Irrigation System based on OpenWeatherMap Forecast Data, Long-Range (LoRa), and Internet of Things
 ![Agrocast System](./files/CAD JPG.jpg)
 
 Agrocast is an innovative smart irrigation system designed to automate and optimize farmland irrigation processes. Leveraging the power of the Internet of Things (IoT), Agrocast intelligently monitors weather forecasts from the web, ensuring efficient water usage. By integrating solar panels for energy sustainability and employing ultra-low power technology, Agrocast operates autonomously, reducing the need for human intervention. The system abstains from irrigation when rain is predicted, further conserving water resources. Agrocast's real-time irrigation data is seamlessly transmitted to the ThingSpeak website, providing farmers with convenient and insightful monitoring capabilities. This open-source project aims to enhance agricultural practices by combining automation, sustainability, and data-driven insights for precision irrigation management.
